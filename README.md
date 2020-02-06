@@ -4,7 +4,7 @@
 LEDの点灯を制御するRaspberryPi3向けのデバイスドライバを作成しました。
 
 ## 動作デモ(Youtube)
-準備中
+https://youtu.be/LgPQ6bpKG2E
 
 ## 動作環境
 RaspberryPi3
